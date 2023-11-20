@@ -1,2 +1,2 @@
-# ml_grasping
-A project to apply machine learning through the Cornell dataset for grasp detection.
+# Machine Learning Grasping
+This project focuses on the application of machine learning using the Cornell dataset for grasp detection.
